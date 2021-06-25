@@ -16,3 +16,4 @@ sandbox/.gradle/vcs-1/gc.properties
 sandbox/build/classes/java/main/MyFP.class
 sandbox/build/tmp/compileJava/source-classes-mapping.txt
 sandbox/build/tmp/jar/MANIFEST.MF
+.idea/workspace.xml
